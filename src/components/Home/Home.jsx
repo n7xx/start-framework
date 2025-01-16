@@ -8,7 +8,7 @@ export default function Home() {
       <div className="container">
         <div className=" text-center">
           <img
-            src="public/images/avataaars.svg"
+            src="/images/avataaars.svg"
             alt="Avatar"
             className="mb-3"
             style={{ width: "250px" }}
