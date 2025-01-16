@@ -4,12 +4,12 @@ import { faPlus } from "@fortawesome/free-solid-svg-icons";
 
 export default function Portfolio() {
   const portfolioItems = [
-    { id: 1, image: "src/assets/images/poert1.png" },
-    { id: 2, image: "src/assets/images/port2.png" },
-    { id: 3, image: "src/assets/images/port3.png" },
-    { id: 4, image: "src/assets/images/poert1.png" },
-    { id: 5, image: "src/assets/images/port2.png" },
-    { id: 6, image: "src/assets/images/port3.png" },
+    { id: 1, image: "/images/poert1.png" },
+    { id: 2, image: "/images/port2.png" },
+    { id: 3, image: "/images/port3.png" },
+    { id: 4, image: "/images/poert1.png" },
+    { id: 5, image: "/images/port2.png" },
+    { id: 6, image: "/images/port3.png" },
   ];
   return (
     <section className="portfolio-section">
