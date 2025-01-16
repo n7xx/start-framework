@@ -8,7 +8,7 @@ export default function NotFound() {
       <div className="container">
         <div className="text-center">
           <img
-            src="src/assets/images/404-error.png"
+            src="/images/404-error.png"
             alt="404 Error"
             className="mb-3"
             style={{ width: "250px" }}
